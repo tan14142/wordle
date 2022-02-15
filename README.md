@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Welcome to my implementation of Wordle
 
 This project uses React + TypeScript + Bootstrap
 
